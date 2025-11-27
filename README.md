@@ -20,7 +20,7 @@ MySQL database integration
 
 Centralized exception handling
 
-🧰 Tech Stack
+ Tech Stack
 
 Java 17
 
